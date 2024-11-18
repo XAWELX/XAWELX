@@ -1,7 +1,7 @@
 - 👋 Hi, I’m XAWELX
-- 👀 I’m interested in Acquire knowledge
-- 🌱 I’m currently learning WEB development and programming languages...
-- 💞️ I’m looking to collaborate on projects where I can learn and meet people 
+- 👀 I’m interested in Acquire knowledge.
+- 🌱 I’m currently learning WEB development and programming languages.
+- 💞️ I’m looking to collaborate on projects where I can learn and meet people.
 - 📫 How to reach me: my mail is: jhon2010555@gmail.com
 
 
